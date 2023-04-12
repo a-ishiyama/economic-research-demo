@@ -19,3 +19,5 @@ The .pdf file titled "thesis.pdf" is the submitted paper.
 The .do file is the language used for the statistical software "STATA".
 
 It demonstrates how I started my journey in statistical modelling, and showcase how my statistical and coding skills have evolved and advanced over the years, compared to the more sophisticated methods and contents listed on my other repos.
+
+(the data used for the research is not uploaded due to privacy and copyright reasons.)
